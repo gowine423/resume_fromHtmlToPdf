@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">CV Generator</h1>
-  <h4 align="center">Resume CV with dark/light mode and PDF export</h4>
+  <h4 align="center">Resume CV with dark/light mode and PDF export.</h4>
 </p>
 
 <p align="center">
